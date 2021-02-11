@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/micro-react-apps/static/js/main.939736c8.chunk.js",
+    "main.js.map": "/micro-react-apps/static/js/main.939736c8.chunk.js.map",
+    "runtime-main.js": "/micro-react-apps/static/js/runtime-main.52fa9f85.js",
+    "runtime-main.js.map": "/micro-react-apps/static/js/runtime-main.52fa9f85.js.map",
+    "static/js/2.9d16095b.chunk.js": "/micro-react-apps/static/js/2.9d16095b.chunk.js",
+    "static/js/2.9d16095b.chunk.js.map": "/micro-react-apps/static/js/2.9d16095b.chunk.js.map",
+    "index.html": "/micro-react-apps/index.html",
+    "static/js/2.9d16095b.chunk.js.LICENSE.txt": "/micro-react-apps/static/js/2.9d16095b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52fa9f85.js",
+    "static/js/2.9d16095b.chunk.js",
+    "static/js/main.939736c8.chunk.js"
+  ]
+}
